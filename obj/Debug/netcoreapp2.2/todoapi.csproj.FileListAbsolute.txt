@@ -1,0 +1,14 @@
+/Users/kishore.k1/workspace/todoapi/bin/Debug/netcoreapp2.2/todoapi.deps.json
+/Users/kishore.k1/workspace/todoapi/bin/Debug/netcoreapp2.2/todoapi.runtimeconfig.json
+/Users/kishore.k1/workspace/todoapi/bin/Debug/netcoreapp2.2/todoapi.runtimeconfig.dev.json
+/Users/kishore.k1/workspace/todoapi/bin/Debug/netcoreapp2.2/todoapi.dll
+/Users/kishore.k1/workspace/todoapi/bin/Debug/netcoreapp2.2/todoapi.pdb
+/Users/kishore.k1/workspace/todoapi/obj/Debug/netcoreapp2.2/todoapi.csprojAssemblyReference.cache
+/Users/kishore.k1/workspace/todoapi/obj/Debug/netcoreapp2.2/todoapi.csproj.CoreCompileInputs.cache
+/Users/kishore.k1/workspace/todoapi/obj/Debug/netcoreapp2.2/todoapi.RazorAssemblyInfo.cache
+/Users/kishore.k1/workspace/todoapi/obj/Debug/netcoreapp2.2/todoapi.RazorAssemblyInfo.cs
+/Users/kishore.k1/workspace/todoapi/obj/Debug/netcoreapp2.2/todoapi.AssemblyInfoInputs.cache
+/Users/kishore.k1/workspace/todoapi/obj/Debug/netcoreapp2.2/todoapi.AssemblyInfo.cs
+/Users/kishore.k1/workspace/todoapi/obj/Debug/netcoreapp2.2/todoapi.RazorTargetAssemblyInfo.cache
+/Users/kishore.k1/workspace/todoapi/obj/Debug/netcoreapp2.2/todoapi.dll
+/Users/kishore.k1/workspace/todoapi/obj/Debug/netcoreapp2.2/todoapi.pdb
